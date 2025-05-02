@@ -1,4 +1,4 @@
-##Handwritten Digit Recognition using Machine Learning
+# Handwritten Digit Recognition using Machine Learning
 
 This project demonstrates a complete machine learning pipeline for recognizing handwritten digits (0–9) from the *MNIST dataset*. It covers data visualization, model training, performance evaluation, and advanced analysis techniques like t-SNE, class-wise accuracy, and heatmaps.
 
