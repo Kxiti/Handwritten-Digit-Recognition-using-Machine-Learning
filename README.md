@@ -62,4 +62,4 @@ This is a *multi-class classification* problem.
 -Postal Services: Reading handwritten zip codes on letters and parcels for faster sorting and delivery.
 -Form Digitization: Converting handwritten data from surveys, exams, or registration forms into digital formats for processing.
 
-Blog URL : 
+Blog URL : (https://medium.com/@kritijindal03/handwritten-digit-recognition-using-machine-learning-6919ce832e3e)
